@@ -4,13 +4,13 @@
   margin:0; padding:0
 }
 
-.header-logo {
+/* .header-logo {
   max-width: 38%; /* This will limit width */
 }
 
-.row .col.m2{
+/* .row .col.m2{
   width: 20%;
-}
+} */ */
 
 .icontent {
   max-height: 0;
